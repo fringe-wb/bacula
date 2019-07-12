@@ -4,3 +4,5 @@
 4，配置bacula实现多台linux+window的文件本分
 5，安装bacula web
 6，配置bacula web实现备份的统一web管理平台
+...
+未完待续
